@@ -1,0 +1,26 @@
+body {
+  background-color: whitesmoke;
+  
+}
+h1 {
+  color: brown;
+  font-family: verdana;
+  font-size: 40px;
+}
+p {
+  color: yellowgreen;
+  font-family: verdana;
+  font-size: 20px;
+ 
+}
+li {
+     color: powderblue;
+  font-family: vedana;
+  font-size: 20px;
+}
+table, th, td {
+    border: 1px solid black;
+    color: black;
+    font-family: verdana;
+    font-size: 20px;
+}
